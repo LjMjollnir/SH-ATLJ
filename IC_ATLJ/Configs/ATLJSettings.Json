@@ -1,0 +1,32 @@
+{
+	"ConfigType":3,
+	"LevelQ":"1",
+	"LevelSlots":0,
+	"Mod50":[
+		2,
+		3,
+		7,
+		8,
+		12,
+		13,
+		17,
+		18,
+		22,
+		23,
+		27,
+		28,
+		32,
+		33,
+		37,
+		38,
+		42,
+		43,
+		47,
+		48
+	],
+	"Ultimates":0,
+	"UseBrivSkip":"0",
+	"UseBrivW":"0",
+	"UseClick":"0",
+	"UseHew":"0"
+}

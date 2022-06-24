@@ -1,0 +1,9 @@
+{
+	"Name":"Adventure Time LJ",
+	"Version": "v1.0.1",
+    "Includes" : "IC_ATLJ_Component.ahk",
+    "Author" : "LjMjollnir",
+    "Url" : "none yet",
+    "Info" : "Time to go on an Adventure",
+    "Dependencies" : {}
+}
